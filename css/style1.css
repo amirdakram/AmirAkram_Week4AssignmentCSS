@@ -1,0 +1,44 @@
+* {
+    color:darkblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#altfontcolor {
+    color:blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+.colorbox {
+    background-color: coral;
+}
+
+#david h2, #david p { 
+    color: rgb(13, 93, 4);
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myarticle {
+    background-color: cornflowerblue;
+    padding: 5px 50px 15px;
+    /* border: 15px;
+    border-color: coral; */
+    margin: 10px;
+}
+
+h2.colorbox { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: double;
+    border-color: black;
+
+
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
